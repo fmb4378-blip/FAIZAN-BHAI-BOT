@@ -1,0 +1,5 @@
+node_modules/
+Love/auth/
+config.js
+bot.log
+.env
